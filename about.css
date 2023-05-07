@@ -1,0 +1,50 @@
+.body {
+    background-image: url("parchmentBackground.jpg");
+    background-size: cover;
+}
+
+.infoBox {
+    display: flex;
+    height: 45vh;
+    align-items: center;
+    justify-content: center;
+    margin-right: 20vh;
+    margin-left: 20vh;
+}
+
+.infoText {
+    display: flex;
+    text-align: center;
+    font-size: large;
+}
+
+.contactInfoBox {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.phoneAdressText {
+    display: flex;
+    justify-content: center;
+}
+
+.navbarNavAltMarkup{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.navbar{
+    background-color: orangered;
+    align-items: center;
+    height: 35px;
+}
+
+.navbar-nav {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav-item {
+    margin-top: 7px;
+}

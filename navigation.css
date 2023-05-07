@@ -1,0 +1,8 @@
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: orangered;
+    height: 5vh;
+    margin: 0%;
+}
